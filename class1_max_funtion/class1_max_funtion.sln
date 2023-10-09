@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class1_max_funtion", "class1_max_funtion\class1_max_funtion.vcxproj", "{70D538BC-78EE-46B8-8E5A-1D6B0DC89D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D538BC-78EE-46B8-8E5A-1D6B0DC89D05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70D538BC-78EE-46B8-8E5A-1D6B0DC89D05}.Debug|Win32.Build.0 = Debug|Win32
+		{70D538BC-78EE-46B8-8E5A-1D6B0DC89D05}.Release|Win32.ActiveCfg = Release|Win32
+		{70D538BC-78EE-46B8-8E5A-1D6B0DC89D05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
